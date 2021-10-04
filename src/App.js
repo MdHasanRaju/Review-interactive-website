@@ -11,7 +11,7 @@ import NotFound from './components/NotFound/NotFound';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Router>
       <Header></Header>
 
@@ -35,7 +35,7 @@ function App() {
           <NotFound></NotFound>
         </Route>
         </Switch>
-      
+        <Footer></Footer>
       </Router>
     </div>
   );
