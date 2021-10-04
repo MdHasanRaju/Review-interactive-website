@@ -18,8 +18,7 @@ const Home = () => {
                 </h1>
                 <h1>Effective English Lessons.</h1>
                 <p>
-                  We're among one of the best Education Bootstrap template on
-                  the Envato marketplace to build a powerful online university
+                  We're among one of the best Education era on the Envato marketplace to build a powerful online university
                   websites. The team family is a small collection of designers
                   and who have one thing in common - we all love coding.
                 </p>

@@ -1,9 +1,9 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-
+import './About.css'
 const About = () => {
     return (
-      <Container className="text-center py-5">
+      <Container className="text-center about">
         <h2>Welcome to the BeSkilled Learning Management System</h2>
         <Row md={2} className="text-center">
           <Col>

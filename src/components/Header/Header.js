@@ -15,10 +15,11 @@ const Header = () => {
           <Navbar.Collapse id="navbarScroll">
             <Nav
               className="me-auto my-2 my-lg-0"
-              style={{ maxHeight:"100px" }}
+              style={{ maxHeight: "100px" }}
               navbarScroll
             >
               <NavLink
+                style={{ color: "white" }}
                 className="me-2 text-decoration-none"
                 activeStyle={myStyle}
                 to="/home"
@@ -26,6 +27,7 @@ const Header = () => {
                 Home
               </NavLink>
               <NavLink
+                style={{ color: "white" }}
                 className="me-2 text-decoration-none"
                 activeStyle={myStyle}
                 to="/about"
@@ -33,6 +35,7 @@ const Header = () => {
                 About
               </NavLink>
               <NavLink
+                style={{ color: "white" }}
                 className="me-2 text-decoration-none"
                 activeStyle={myStyle}
                 to="/services"
@@ -40,6 +43,7 @@ const Header = () => {
                 Services
               </NavLink>
               <NavLink
+                style={{ color: "white" }}
                 className="me-2 text-decoration-none"
                 activeStyle={myStyle}
                 to="/contact"
@@ -54,7 +58,7 @@ const Header = () => {
                 className="me-2"
                 aria-label="Search"
               />
-              <Button variant="outline-success text-light">Join</Button>
+              <Button variant="outline-success text-light w-50">Join us</Button>
             </Form>
           </Navbar.Collapse>
         </Container>

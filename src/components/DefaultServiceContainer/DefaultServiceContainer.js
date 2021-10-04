@@ -16,7 +16,7 @@ const DefaultServiceContainer = () => {
     return (
         <Row xs={1} md={2} className="g-4">
                 {
-                    dftService.slice(0, 4).map(service => <DefaultService service={service}></DefaultService>)
+                    dftService.slice(0, 4).map(service => <DefaultService key={service.id} service={service}></DefaultService>)
                 }
         </Row>
     );
