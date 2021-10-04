@@ -3,8 +3,8 @@ import { Card, Col } from 'react-bootstrap';
 
 const DefaultService = (props) => {
     const {service} = props;
-    console.log(service);
 
+    // display default data in home page
     return (
       <Col>
         <Card variant="h-100">

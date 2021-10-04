@@ -7,6 +7,7 @@ import DefaultService from '../DefaultService/DefaultService';
 const DefaultServiceContainer = () => {
     const [dftService, setDftService] = useState([])
 
+    // data fetching for keeping 4 services default in home page
     useEffect( () => {
         fetch('./fakeData.json')
         .then(res => res.json())

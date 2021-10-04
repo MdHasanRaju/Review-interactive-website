@@ -3,10 +3,13 @@ import { Container, Form, FormControl, Nav, Navbar, Button } from 'react-bootstr
 import { NavLink } from 'react-router-dom';
 
 const Header = () => {
+  
+  // style applying for keeping route menu active
     const myStyle = {
         color:"red",
         fontWeight:"bold"
     }
+
     return (
       <Navbar bg="dark" expand="lg">
         <Container>

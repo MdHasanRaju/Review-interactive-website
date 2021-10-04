@@ -9,6 +9,7 @@ import ServiceDetails from '../ServiceDetails/ServiceDetails';
 const Services = () => {
     const [services, setServices] = useState([]);
 
+    // data fetching for services route
     useEffect(() => {
         fetch('./fakeData.json')
         .then(res => res.json())

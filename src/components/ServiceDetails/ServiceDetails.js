@@ -4,7 +4,8 @@ import Services from '../Services/Services';
 
 const ServiceDetails = (props) => {
     const {service} = props;
-    // console.log(service);
+    
+    // displaying data in services route
     return (
       <Col>
         <Card variant="h-100">
