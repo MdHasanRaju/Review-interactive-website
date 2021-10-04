@@ -1,5 +1,7 @@
 import React from 'react';
 import { ButtonGroup, Button, Col, Container, Row } from 'react-bootstrap';
+import DefaultService from '../DefaultService/DefaultService';
+import DefaultServiceContainer from '../DefaultServiceContainer/DefaultServiceContainer';
 import ServiceDetails from '../ServiceDetails/ServiceDetails';
 import Services from '../Services/Services';
 import './Home.css';
@@ -21,12 +23,13 @@ const Home = () => {
                 who have one thing in common - we all love coding.
               </p>
               <Button variant="success">Success</Button>
-            </Col>
 
+            </Col>
             <Col sm={6}>sm=4</Col>
           </Row>
+          <DefaultServiceContainer></DefaultServiceContainer>
         </Container>
-        <Services></Services>
+        
       </div>
     );
 };

@@ -8,17 +8,9 @@ const Header = () => {
         fontWeight:"bold"
     }
     return (
-      //   <Nav>
-      //     <NavLink variant="" to="/home" activeStyle={myStyle}>
-      //       Home
-      //     </NavLink>
-      //     <NavLink variant="" to="/home" activeStyle={myStyle}>
-      //       Home
-      //     </NavLink>
-      //   </Nav>
       <Navbar bg="light" expand="lg">
         <Container>
-          <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+          <Navbar.Brand to="#">BeSkilled.</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
             <Nav
@@ -62,7 +54,7 @@ const Header = () => {
                 className="me-2"
                 aria-label="Search"
               />
-              <Button className="fs-6" variant="outline-success">Join</Button>
+              <Button className="" variant="outline-success">Join</Button>
             </Form>
           </Navbar.Collapse>
         </Container>

@@ -2,6 +2,8 @@ import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
 import { Container, Row } from 'react-bootstrap';
+import DefaultService from '../DefaultService/DefaultService';
+import Home from '../Home/Home';
 import ServiceDetails from '../ServiceDetails/ServiceDetails';
 
 const Services = () => {

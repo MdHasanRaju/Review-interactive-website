@@ -1,10 +1,10 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
-import Services from '../Services/Services';
 
-const ServiceDetails = (props) => {
+const DefaultService = (props) => {
     const {service} = props;
-    // console.log(service);
+    console.log(service);
+
     return (
       <Col>
         <Card variant="h-100">
@@ -15,14 +15,15 @@ const ServiceDetails = (props) => {
           </Card.Body>
           <Card.Footer className="d-flex justify-content-between">
             <p>
-              <i className="fas fa-user text-info"></i> <small>{service.count}</small>
+              <i className="fas fa-user text-info"></i>{" "}
+              <small>{service.count}</small>
             </p>
             <p>
               <small className="text-muted">
-                <i class="fas fa-star text-warning"></i>
-                <i class="fas fa-star text-warning"></i>
-                <i class="fas fa-star text-warning"></i>
-                <i class="fas fa-star text-warning"></i>
+                <i className="fas fa-star text-warning"></i>
+                <i className="fas fa-star text-warning"></i>
+                <i className="fas fa-star text-warning"></i>
+                <i className="fas fa-star text-warning"></i>
               </small>
             </p>
           </Card.Footer>
@@ -31,4 +32,4 @@ const ServiceDetails = (props) => {
     );
 };
 
-export default ServiceDetails;
+export default DefaultService;

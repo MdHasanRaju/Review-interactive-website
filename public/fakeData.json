@@ -2,51 +2,61 @@
 	{
 		"name": "Learn English in 20 Days",
 		"price": "20",
+		"count": "13",
 		"img": "https://media.istockphoto.com/photos/teacher-desk-full-of-books-against-a-blackboard-background-whit-copy-picture-id1251272960?b=1&k=20&m=1251272960&s=170667a&w=0&h=Qmt1F9P1-XQB4DqLqMLHXbGxI4j_92CZkrAHukjJk3E="
 	},
 	{
 		"name": "Easy English for Beginners",
 		"price": "25",
+		"count": "15",
 		"img": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bGVhcm5pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
 	},
 	{
 		"name": "Be skilled in English",
 		"price": "25",
+		"count": "12",
 		"img": "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGxlYXJuaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
 	},
 	{
 		"name": "Go with English",
 		"price": "15",
+		"count": "19",
 		"img": "https://images.unsplash.com/photo-1584697964358-3e14ca57658b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGxlYXJuaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
 	},
 	{
 		"name": "English for Kids",
 		"price": "20",
+		"count": "21",
 		"img": "https://images.unsplash.com/photo-1628243426757-b092ba839ff9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGVhcm5pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
 	},
 	{
 		"name": "English For Today",
 		"price": "18",
+		"count": "17",
 		"img": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGVkdWNhdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
 	},
 	{
 		"name": "English in One Month",
 		"price": "15",
+		"count": "18",
 		"img": "https://images.unsplash.com/photo-1599008633840-052c7f756385?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGVkdWNhdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
 	},
 	{
 		"name": "Beginners friendly English",
 		"price": "20",
+		"count": "16",
 		"img": "https://media.istockphoto.com/photos/schoolgirl-studying-with-video-online-lesson-at-home-picture-id1285962627?b=1&k=20&m=1285962627&s=170667a&w=0&h=PaplJh7fQhrHOoprLvDP9HbMMER9jo74_jcQSGXryWg="
 	},
 	{
 		"name": "Learn English in Five Weeks",
 		"price": "25",
+		"count": "14",
 		"img": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGxlYXJuaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
 	},
 	{
 		"name": "English For All",
 		"price": "20",
+		"count": "15",
 		"img": "https://images.unsplash.com/photo-1516414447565-b14be0adf13e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJvb2slMjBjb3ZlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
 	}
 ]

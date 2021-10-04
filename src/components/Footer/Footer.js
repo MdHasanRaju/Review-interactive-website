@@ -7,24 +7,34 @@ const Footer = () => {
         <Row>
           <Col>
             <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
+            <p>TEMPLATES</p>
+            <p>DOCUMENTATION</p>
+            <p>GET A SUPPORT</p>
+            <p>AFFILIATE</p>
           </Col>
           <Col>
-            <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
+            <p>BLOG</p>
+            <p>TERMS OF USAGE</p>
+            <p>PRIVACY POLICY</p>
+            <p>PRICING & PLAN</p>
+            <p>BECOME A TRAINER</p>
           </Col>
           <Col>
-            <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
-            <p>PSD TO HTML</p>
+            <p>
+              <i class="fab fa-twitter"></i> TWITTER
+            </p>
+            <p>
+              <i class="fab fa-facebook"></i> FACEBOOK
+            </p>
+            <p>
+              <i class="fab fa-google-plus"></i> GOOGLE PLUS
+            </p>
+            <p>
+              <i class="fab fa-pinterest"></i> PINTEREST
+            </p>
+            <p>
+              <i class="fab fa-dribbble"></i> DRIBBBLE
+            </p>
           </Col>
           <Col>
             <p>
