@@ -8,7 +8,7 @@ const Footer = () => {
         <Container className="mt-3">
           <Row>
             <Col>
-              <p>PSD TO HTML</p>
+              <p>ONLINE COURSES</p>
               <p>TEMPLATES</p>
               <p>DOCUMENTATION</p>
               <p>GET A SUPPORT</p>
