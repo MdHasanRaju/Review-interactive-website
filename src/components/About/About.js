@@ -3,11 +3,11 @@ import { Col, Container, Row } from 'react-bootstrap';
 
 const About = () => {
     return (
-      <Container className="text-center">
-        <h2>Welcome to the EduPress Learning Management System</h2>
+      <Container className="text-center py-5">
+        <h2>Welcome to the BeSkilled Learning Management System</h2>
         <Row md={2} className="text-center">
           <Col>
-            <p>
+            <p className="text-start">
               <small>
                 A posuere donec senectus suspendisse bibendum magna ridiculus a
                 justo orci parturient suspendisse ad rhoncus cursus ut
@@ -20,7 +20,7 @@ const About = () => {
             </p>
           </Col>
           <Col>
-            <p>
+            <p className="text-start">
               <small>
                 A posuere donec senectus suspendisse bibendum magna ridiculus a
                 justo orci parturient suspendisse ad rhoncus cursus ut

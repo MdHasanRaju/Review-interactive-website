@@ -8,14 +8,14 @@ const Header = () => {
         fontWeight:"bold"
     }
     return (
-      <Navbar bg="light" expand="lg">
+      <Navbar bg="dark" expand="lg">
         <Container>
-          <Navbar.Brand to="#">BeSkilled.</Navbar.Brand>
+          <Navbar.Brand className="text-light">BeSkilled.</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
             <Nav
               className="me-auto my-2 my-lg-0"
-              style={{ maxHeight: "100px" }}
+              style={{ maxHeight:"100px" }}
               navbarScroll
             >
               <NavLink
@@ -54,7 +54,7 @@ const Header = () => {
                 className="me-2"
                 aria-label="Search"
               />
-              <Button className="" variant="outline-success">Join</Button>
+              <Button variant="outline-success text-light">Join</Button>
             </Form>
           </Navbar.Collapse>
         </Container>

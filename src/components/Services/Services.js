@@ -16,7 +16,7 @@ const Services = () => {
     } ,[])
 
     return (
-        <Container>
+        <Container className="py-4">
             <h2 className="text-center">Total Services:{services.length}</h2>
             <Row xs={1} md={3} className="g-4">
                 {
