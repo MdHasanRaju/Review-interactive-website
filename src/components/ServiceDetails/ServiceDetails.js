@@ -1,6 +1,5 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
-import Services from '../Services/Services';
 
 const ServiceDetails = (props) => {
     const {service} = props;
@@ -20,10 +19,10 @@ const ServiceDetails = (props) => {
             </p>
             <p>
               <small className="text-muted">
-                <i class="fas fa-star text-warning"></i>
-                <i class="fas fa-star text-warning"></i>
-                <i class="fas fa-star text-warning"></i>
-                <i class="fas fa-star text-warning"></i>
+                <i className="fas fa-star text-warning"></i>
+                <i className="fas fa-star text-warning"></i>
+                <i className="fas fa-star text-warning"></i>
+                <i className="fas fa-star text-warning"></i>
               </small>
             </p>
           </Card.Footer>
